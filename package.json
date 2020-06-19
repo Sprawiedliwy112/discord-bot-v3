@@ -5,6 +5,7 @@
   "main": "shigure-heart.js",
   "scripts": {
     "test": "Hello World! This is a test message."
+    "start": "node shigure-heart.js"
   },
   "author": "Weylan Shyer (Znudzony)",
   "license": "Apache-2.0",
